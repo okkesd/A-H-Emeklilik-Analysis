@@ -1,0 +1,11 @@
+izlence
+1-urun profili olusturma
+2-bu iliskilere gore ml modeli ile tahmin yapma
+
+yapilacaklar
+-her bir urunun verilerini inceleme
+
+---okkes---
+
+
+---mali---
