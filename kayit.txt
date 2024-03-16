@@ -9,3 +9,5 @@ yapilacaklar
 
 
 ---mali---
+her bir urun icin column name degiskenine bagli bir fonksiyon yapmaya calisiyordum, yarim kaldi. onu yaparsak tum urunler icin grafikleri hizlica hazirlayabiliriz!
+benim bransimdan pullayabilirsin
