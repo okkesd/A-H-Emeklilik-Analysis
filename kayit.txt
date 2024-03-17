@@ -5,7 +5,12 @@ izlence
 yapilacaklar
 TAMAM-her bir urunun verilerini inceleme
 -her bir policenin hatasizca grafiklerini kaydetme
--ozellik - police grafik cikarma fonksiyonu
+-gelir grafigi duzeltilmeli
+-yasda null deger var mi kontrol
+
+-!!! ozellik - police grafik cikarma fonksiyonu
+-!!! ML oncesi veri yorumlama
+
 
 ---okkes---
 - her commitin sonuna parantez icinde adini yazmayi unutma
