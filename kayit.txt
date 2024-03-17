@@ -1,13 +1,21 @@
 izlence
-1-urun profili olusturma
+1-police profili olusturma
 2-bu iliskilere gore ml modeli ile tahmin yapma
 
 yapilacaklar
--her bir urunun verilerini inceleme
+TAMAM-her bir urunun verilerini inceleme
+-her bir policenin hatasizca grafiklerini kaydetme
+-ozellik - police grafik cikarma fonksiyonu
 
 ---okkes---
+- her commitin sonuna parantez icinde adini yazmayi unutma
 
++ yazmaya calistigimiz fonksiyon, her grup icin demografik ozellikleri ve soruları analiz ediyor suan icin. saat: 11:44 Pazar
+
+abi buradaki degil masterdaki text dosyasini kullanalim. her bransta kayit dosyasi olunca kafa karistirici oluyor. buradaki yazilari ona aktarip bu branstaki texti silebiliriz bence -mali
+abi  bi de fonksiyonlara kendi ismimizi eklemeyelim sacma oluyo
 
 ---mali---
 her bir urun icin column name degiskenine bagli bir fonksiyon yapmaya calisiyordum, yarim kaldi. onu yaparsak tum urunler icin grafikleri hizlica hazirlayabiliriz!
-benim bransimdan pullayabilirsin
+benim bransimdan pullayabilirsin (tamam)
+police grafik fonksiyonunu tamamladim. simdi sira ozellik-police fonksiyonunda
