@@ -20,6 +20,8 @@ TAMAM-her bir urunun verilerini inceleme
 abi buradaki degil masterdaki text dosyasini kullanalim. her bransta kayit dosyasi olunca kafa karistirici oluyor. buradaki yazilari ona aktarip bu branstaki texti silebiliriz bence -mali
 abi  bi de fonksiyonlara kendi ismimizi eklemeyelim sacma oluyo
 
+SALI: HU'lar icin grafikler olusturan fonk yazildi ve bunun text halinin yazilmasi gerekiyor, HU'lar icin bes+hu grafikleri olusturan fonk yazildi detaylar yazilacak 
+
 ---mali---
 her bir urun icin column name degiskenine bagli bir fonksiyon yapmaya calisiyordum, yarim kaldi. onu yaparsak tum urunler icin grafikleri hizlica hazirlayabiliriz!
 benim bransimdan pullayabilirsin (tamam)
